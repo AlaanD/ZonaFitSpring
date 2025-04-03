@@ -39,3 +39,8 @@ La estructura del proyecto es la siguiente:
 
    ```bash
    git clone https://github.com/AlaanD/ZonaFitSpring.git
+
+
+## Autor
+
+**Alán David Dri**
