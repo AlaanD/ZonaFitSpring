@@ -43,4 +43,5 @@ La estructura del proyecto es la siguiente:
 
 ## Autor
 
-**Alán David Dri**
+- **Alán David Dri**  
+
